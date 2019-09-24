@@ -1,0 +1,39 @@
+{
+    "parser": "babel-eslint",
+    "env": {
+        "browser": true,
+        "node": true,
+        "es6": true,
+        "jest": true,
+        "jest/globals": true
+    },
+    "plugins": [
+        "react",
+        "jest",
+        "promise",
+        "chai-expect",
+    ],
+    "extends": [
+        "react-app",
+        "eslint:recommended",
+        "plugin:promise/recommended",
+        "plugin:react/recommended",
+        "airbnb"
+    ],
+    "rules": {
+        "indent": "off",
+        "react/jsx-filename-extension": [1, { "extensions": [".tsx", ".jsx"] }],
+        "import/prefer-default-export": "off",
+        "no-else-return": "off",
+        "react/no-unescaped-entities": "off",
+        "no-console": "off"
+    },
+    "settings": {
+        "import/resolver": {
+            "node": {
+                "paths": ["."],
+                "extensions": [".js", ".jsx", ".ts", ".tsx"]
+            }
+        }
+    }
+}

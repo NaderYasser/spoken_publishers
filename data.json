@@ -1,0 +1,191 @@
+{
+    "publishers":[
+        {
+            "name" : "New York Times" ,
+            "items" : "15",
+            "logo":"times.png"
+  
+          },
+          { 
+            "name" : "Wall Street Journal" ,
+            "items" : "12",
+            "logo":"wall-street.png"
+          },
+          { 
+            "name" : "The Guardian" ,
+            "items" : "11",
+            "logo":"the_guardian.png"
+          },
+          { 
+            "name" : "Financial Times" ,
+            "items" : "16",
+            "logo":"f_times.png"
+  
+          },
+          { 
+            "name" : "Business Insider" ,
+            "items" : "15",
+            "logo":"BI.jpg"
+  
+          },
+          { 
+            "name" : "aeon" ,
+            "items" : "13",
+            "logo":"aeon.png"
+  
+          }
+    ],
+    
+    "articles":[
+      {
+        "cover": "cover.jpg",
+        "header": "12 of history's greatest philosophers reveal the secret to happiness",
+        "tags": ["#SelfDevelopment", "#Leadership"],
+        "publisher": "aeon",
+        "publisher_logo": "aeon.png",
+        "writer": "Mark Johnson",
+        "type": "Video Content",
+        "duration": "5 Mins",
+        "push_date": "24/12/2019",
+        "feature_date": "24/12/2019"
+    },
+    {
+      "cover": "cover.jpg",
+      "header": "12 of history's greatest philosophers reveal the secret to happiness",
+      "tags": ["#SelfDevelopment", "#Leadership"],
+      "publisher": "New York Times",
+      "publisher_logo": "times.png",
+      "writer": "Mark Johnson",
+      "type": "Video Content",
+      "duration": "5 Mins",
+      "push_date": "24/12/2019",
+      "feature_date": "24/12/2019"
+  },
+  {
+    "cover": "cover.jpg",
+    "header": "12 of history's greatest philosophers reveal the secret to happiness",
+    "tags": ["#SelfDevelopment", "#Leadership"],
+    "publisher": "Wall Street Journal",
+    "publisher_logo": "wall-street.png",
+    "writer": "Mark Johnson",
+    "type": "Video Content",
+    "duration": "5 Mins",
+    "push_date": "24/12/2019",
+    "feature_date": "24/12/2019"
+},
+{
+  "cover": "cover.jpg",
+  "header": "12 of history's greatest philosophers reveal the secret to happiness",
+  "tags": ["#SelfDevelopment", "#Leadership"],
+  "publisher": "The Guardian",
+  "publisher_logo": "the_guardian.png",
+  "writer": "Mark Johnson",
+  "type": "Video Content",
+  "duration": "5 Mins",
+  "push_date": "24/12/2019",
+  "feature_date": "24/12/2019"
+},
+{
+  "cover": "cover.jpg",
+  "header": "12 of history's greatest philosophers reveal the secret to happiness",
+  "tags": ["#SelfDevelopment", "#Leadership"],
+  "publisher": "Financial Times",
+  "publisher_logo": "f_times.png",
+  "writer": "Mark Johnson",
+  "type": "Video Content",
+  "duration": "5 Mins",
+  "push_date": "24/12/2019",
+  "feature_date": "24/12/2019"
+},
+{
+  "cover": "cover.jpg",
+  "header": "12 of history's greatest philosophers reveal the secret to happiness",
+  "tags": ["#SelfDevelopment", "#Leadership"],
+  "publisher": "Business Insider",
+  "publisher_logo": "BI.jpg",
+  "writer": "Mark Johnson",
+  "type": "Video Content",
+  "duration": "5 Mins",
+  "push_date": "24/12/2019",
+  "feature_date": "24/12/2019"
+},
+{
+  "cover": "cover.jpg",
+  "header": "12 of history's greatest philosophers reveal the secret to happiness",
+  "tags": ["#SelfDevelopment", "#Leadership"],
+  "publisher": "aeon",
+  "publisher_logo": "aeon.png",
+  "writer": "Mark Johnson",
+  "type": "Video Content",
+  "duration": "5 Mins",
+  "push_date": "24/12/2019",
+  "feature_date": "24/12/2019"
+},
+{
+"cover": "cover.jpg",
+"header": "12 of history's greatest philosophers reveal the secret to happiness",
+"tags": ["#SelfDevelopment", "#Leadership"],
+"publisher": "New York Times",
+"publisher_logo": "times.png",
+"writer": "Mark Johnson",
+"type": "Video Content",
+"duration": "5 Mins",
+"push_date": "24/12/2019",
+"feature_date": "24/12/2019"
+},
+{
+"cover": "cover.jpg",
+"header": "12 of history's greatest philosophers reveal the secret to happiness",
+"tags": ["#SelfDevelopment", "#Leadership"],
+"publisher": "Wall Street Journal",
+"publisher_logo": "wall-street.png",
+"writer": "Mark Johnson",
+"type": "Video Content",
+"duration": "5 Mins",
+"push_date": "24/12/2019",
+"feature_date": "24/12/2019"
+},
+{
+"cover": "cover.jpg",
+"header": "12 of history's greatest philosophers reveal the secret to happiness",
+"tags": ["#SelfDevelopment", "#Leadership"],
+"publisher": "The Guardian",
+"publisher_logo": "the_guardian.png",
+"writer": "Mark Johnson",
+"type": "Video Content",
+"duration": "5 Mins",
+"push_date": "24/12/2019",
+"feature_date": "24/12/2019"
+},
+{
+"cover": "cover.jpg",
+"header": "12 of history's greatest philosophers reveal the secret to happiness",
+"tags": ["#SelfDevelopment", "#Leadership"],
+"publisher": "Financial Times",
+"publisher_logo": "f_times.png",
+"writer": "Mark Johnson",
+"type": "Video Content",
+"duration": "5 Mins",
+"push_date": "24/12/2019",
+"feature_date": "24/12/2019"
+},
+{
+"cover": "cover.jpg",
+"header": "12 of history's greatest philosophers reveal the secret to happiness",
+"tags": ["#SelfDevelopment", "#Leadership"],
+"publisher": "Business Insider",
+"publisher_logo": "BI.jpg",
+"writer": "Mark Johnson",
+"type": "Video Content",
+"duration": "5 Mins",
+"push_date": "24/12/2019",
+"feature_date": "24/12/2019"
+}
+  
+
+
+
+
+    ]
+    
+}
