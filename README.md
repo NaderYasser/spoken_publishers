@@ -20,7 +20,7 @@ cd spoken_publishers
 Install the dependencies:
 
 ```sh
-yarn install
+yarn 
 ```
 
 or
