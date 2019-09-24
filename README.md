@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Contents
 
 - [Installation](#installation)
-- [Development Workflow](#Json-server)
+- [Json-server](#Json-server)
 
 
 ### Installation
