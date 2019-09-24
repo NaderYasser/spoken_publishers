@@ -28,6 +28,17 @@ or
 ```sh
 npm install
 ```
+to run on localhost:
+
+```sh
+yarn start
+```
+
+or
+
+```sh
+npm start
+```
 
 ### JSON Server
 
